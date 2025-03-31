@@ -8,3 +8,12 @@ ul{
     list-style-type: none;
     padding: 110px;
 }
+
+img{
+width: 160px;
+height: 160px;
+border: 4px solid rgb(230, 141, 241);
+}
+a{
+color:beige;
+}
